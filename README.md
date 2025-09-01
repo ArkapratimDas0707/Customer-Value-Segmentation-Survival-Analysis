@@ -1,4 +1,4 @@
-# 🏦 Customer Churn & Value Segmentation Analysis
+# 🏦 Customer Value Segmentation and Churn Risk Analysis
 
 ## 📌 Project Overview
 This project combines **Customer Value Scoring (CVS)** with **Survival Analysis** to provide  
