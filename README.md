@@ -62,4 +62,20 @@ This project goes further by combining churn prediction with **customer value** 
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 🚀 How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/ArkapratimDas0707/Customer-Value-Segmentation-Survival-Analysis.git
+   cd Customer-Value-Segmentation-Survival-Analysis
+
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Open Notebook
+```bash
+  jupyter notebook notebooks/Bank_Churn.ipynb
+
