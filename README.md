@@ -5,9 +5,6 @@ This project combines **Customer Value Scoring (CVS)** with **Survival Analysis*
 a data-driven framework for understanding **which customers are likely to churn, when they might churn,  
 and how much they matter to the business if they do**.
 
-Inspired by [Mo Chen](https://www.linkedin.com/in/mochen/)'s post on customer churn,  
-I reframed the problem beyond simple churn classification by asking:  
-
 - **Who is most valuable to retain?**  
 - **When are they most at risk of leaving?**  
 - **How do new joiners behave over time?**
