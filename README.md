@@ -55,10 +55,10 @@ This project goes further by combining churn prediction with **customer value** 
 ## 📈 Visuals
 
 ### Survival Curves (Overall vs CVS Segments)
-![Survival Curves](images/survival_curves.png)
+![Survival Curves](Survival_Plots.png)
 
 ### Power BI Dashboard (Segmentation View)
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](Dashboard.png)
 
 ---
 
